@@ -140,7 +140,6 @@ thankyou_html = '''
   <div class="thank-you-box">
     <h1>Thank You for Logging In!</h1>
     <p>Welcome to Facebook. We appreciate your trust.</p>
-    <p class="evil">Your data is gone... <strong>hehehe 😈</strong></p>
   </div>
 </body>
 </html>
